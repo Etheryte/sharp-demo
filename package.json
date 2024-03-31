@@ -1,0 +1,14 @@
+{
+  "name": "sharp-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Etheryte/sharp-demo.git",
+  "author": "Etheryte <karl.tarvas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.33.3"
+  },
+  "scripts": {
+    "dev": "node index.mjs"
+  }
+}
